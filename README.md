@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adina
+- (https://icons8.ru/icon/I8NE0pOnAQKj/шрек)Hi, I’m Adina
 - 🌱 I’m currently learning WEB Development
 
 ### Skills
