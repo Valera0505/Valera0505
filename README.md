@@ -1,4 +1,4 @@
-- (https://icons8.ru/icon/I8NE0pOnAQKj/шрек)Hi, I’m Adina
+- (https://icons.iconarchive.com/icons/majdi-khawaja/shrek/256/Shrek-4-icon.png)Hi, I’m Adina
 - 🌱 I’m currently learning WEB Development
 
 ### Skills
