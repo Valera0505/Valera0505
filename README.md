@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valera0505
+- 👋 Hi, I’m Adina
 - 🌱 I’m currently learning WEB Development
 - 📫 How to reach me: [Linkedin].(https://www.linkedin.com/in/zhussupova/), [Instagram].(https://www.instagram.com/zhussupova.di/)
 
